@@ -1,0 +1,15 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  margin: 0;
+  background-color: #212529;
+  scroll-behavior: smooth;
+}
+.local-btn {
+  width: 56px;
+  height: 40px;
+  border: 1px solid #ffffff8c;
+  border-radius: 6px;
+  background-color: transparent;
+}
